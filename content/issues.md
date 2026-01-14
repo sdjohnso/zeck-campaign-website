@@ -41,7 +41,7 @@ Rural families deserve timely, dependable healthcare. Long response times for EM
 
 **What Rich Will Fight For:**
 - Expanded EMS coverage and improved response times
-- Partnerships with Vidant and other regional health systems
+- Partnerships with ECU Health and other regional health systems
 - Telehealth access to reduce barriers for rural patients
 - Recruitment and retention incentives for rural healthcare workers
 - Support for the ongoing fire and EMS feasibility study
@@ -210,4 +210,4 @@ Rich Zeck isn't making promises based on political talking points. His platform 
 
 [Request a Yard Sign](/get-involved/) | [About Rich Zeck](/about/) | [Contact the Campaign](/contact/)
 
-*Paid for by Rich Zeck for Commissioner*
+*Paid for by the Committee to Elect Zeck*

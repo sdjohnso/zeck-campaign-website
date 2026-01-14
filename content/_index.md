@@ -19,7 +19,7 @@ Rich Zeck is running for Pitt County Commissioner District 6 to bring experience
 District 6 families deserve a commissioner who understands rural needs firsthand. Rich Zeck has already been delivering results:
 
 - **Mayor of Simpson** - 8 years, 4 election victories
-- **Unseated a 20-year incumbent** - Proven ability to win and lead
+- **Unseated a 14-year incumbent** - Proven ability to win and lead
 - **Won in a Democratic community** as a Republican - Brings people together across party lines
 - **Council on Aging Director** - 10+ years serving Pitt County's most vulnerable residents
 - **Raised $1.6 million** during COVID-19 for senior center expansion
@@ -109,7 +109,7 @@ Rich Zeck moved to Pitt County over 10 years ago to serve as Executive Director 
 - Won the **NC Senior Center of the Year Award** (2021)
 - Raised $1.6 million for facility expansion through community donations
 
-In 2017, Rich was elected Mayor of Simpson, unseating a mayor who had held office for over 20 years. He has been re-elected three times, winning in a primarily Democratic community as a Republican. This demonstrates his ability to unite people across political lines.
+In 2017, Rich was elected Mayor of Simpson, unseating a mayor who had held office for over 14 years. He has been re-elected three times, winning in a primarily Democratic community as a Republican. This demonstrates his ability to unite people across political lines.
 
 Rich serves on the ENC Alliance Board of Directors, representing Simpson in regional economic development efforts. He understands the public-private partnerships that drive job creation in eastern North Carolina.
 
@@ -135,7 +135,7 @@ Make sure you're registered and ready to vote for Rich Zeck on March 3rd.
 
 Have questions? Want to host a meet-and-greet? Ready to volunteer?
 
-**Email:** [campaign@zeckforcommissioner.com]
+**Email:** [zeckforcommissioner@gmail.com](mailto:zeckforcommissioner@gmail.com)
 **Phone:** [PLACEHOLDER]
 
 [Contact us →](/contact/)
@@ -155,4 +155,4 @@ Rich Zeck is the only candidate for Pitt County Commissioner District 6 with:
 
 On March 3, 2026, vote for **Rich Zeck for Pitt County Commissioner District 6**.
 
-*Paid for by Rich Zeck for Commissioner*
+*Paid for by the Committee to Elect Zeck*

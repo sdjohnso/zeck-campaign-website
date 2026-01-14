@@ -115,4 +115,4 @@ In September 2025, the Pitt County Republican Party officially recommended Rich 
 
 **Primary Election:** March 3, 2026
 
-*Paid for by Rich Zeck for Commissioner*
+*Paid for by the Committee to Elect Zeck*
