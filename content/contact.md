@@ -1,10 +1,11 @@
 ---
-title: "Contact Rich Zeck | Pitt County Commissioner District 6 Campaign"
+title: "Contact Rich | Pitt County Commissioner District 6 Campaign"
 description: "Contact Rich Zeck's campaign for Pitt County Commissioner District 6. Request a yard sign, volunteer, or ask questions about the campaign."
 keywords: ["Rich Zeck", "contact", "Pitt County Commissioner", "District 6", "campaign", "volunteer"]
+hide_header_description: true
 ---
 
-# Contact the Campaign
+# Contact Rich
 
 ## How Can We Help You?
 
