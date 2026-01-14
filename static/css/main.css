@@ -524,7 +524,13 @@ body {
 }
 
 .hero-content {
-  max-width: 600px;
+  max-width: 100%;
+}
+
+@media (min-width: 769px) {
+  .hero-content {
+    max-width: 800px;
+  }
 }
 
 .hero-eyebrow {
