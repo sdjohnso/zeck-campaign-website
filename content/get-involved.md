@@ -155,20 +155,6 @@ The March 2026 primary will have low turnout. The campaign that reaches voters w
 
 ---
 
-## Campaign Events
-
-[PLACEHOLDER: Events calendar or upcoming events list]
-
-**Upcoming Events:**
-- Town hall meetings
-- Meet-and-greet gatherings
-- Community forums
-- Candidate debates
-
-Check back for updated event information, or sign up to receive campaign emails.
-
----
-
 ## Stay Connected {#stay-connected}
 
 Get campaign updates, event invitations, and election reminders:
