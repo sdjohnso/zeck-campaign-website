@@ -181,18 +181,6 @@ Get campaign updates, event invitations, and election reminders:
 
 ---
 
-## About the Campaign
-
-Rich Zeck is running for Pitt County Commissioner District 6. He is the four-term Mayor of Simpson, Executive Director of the Pitt County Council on Aging, and an ENC Alliance Board Member.
-
-**Why we're running:** In September 2025, the Pitt County Republican Party recommended Rich Zeck to fill a vacant District 6 seat. The Board of Commissioners ignored the recommendation. Now voters will decide.
-
-[Learn more about Rich →](/about/)
-[Read Rich's platform →](/issues/)
-[The Integrity Over Favoritism story →](/integrity-over-favoritism/)
-
----
-
 ## Key Election Dates
 
 <table class="volunteer-table">
