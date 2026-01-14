@@ -1407,10 +1407,18 @@ p {
 
 /* CTA Icon Links */
 .cta-icons {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
   gap: var(--spacing-2xl);
-  flex-wrap: wrap;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  .cta-icons {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-xl);
+  }
 }
 
 .cta-icon-link {
