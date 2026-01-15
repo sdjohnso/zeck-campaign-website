@@ -75,16 +75,6 @@ Members of the press seeking interviews, statements, or information about Rich Z
 
 ---
 
-## Connect on Social Media
-
-Follow the campaign for updates, events, and news:
-
-- **Facebook:** [PLACEHOLDER: Facebook page URL]
-- **Twitter/X:** [PLACEHOLDER: Twitter handle]
-- **Instagram:** [PLACEHOLDER: Instagram handle]
-
----
-
 ## Frequently Asked Questions
 
 ### Where does Rich Zeck stand on the issues?
