@@ -88,7 +88,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
-  overscroll-behavior: none;
+  /* overscroll-behavior: none removed - breaks scroll on Android Chrome */
+  touch-action: pan-y pinch-zoom; /* Ensure vertical scroll + zoom works on all mobile */
 }
 
 img {
