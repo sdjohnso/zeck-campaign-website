@@ -477,7 +477,8 @@ body {
   display: flex;
   flex-direction: column;
   color: var(--white);
-  overflow: hidden;
+  /* overflow: hidden removed - was blocking touch scroll on Android/Pixel */
+  touch-action: pan-y; /* Explicitly allow vertical scrolling on mobile */
 }
 
 .hero-image-container {
@@ -488,6 +489,7 @@ body {
   background: linear-gradient(135deg, var(--primary-navy) 0%, var(--primary-light) 50%, #3d5a80 100%);
   background-size: cover;
   background-position: center right;
+  pointer-events: none; /* Allow touch events to pass through to page scroll */
 }
 
 /* Hero image - responsive with WebP support */
@@ -530,6 +532,7 @@ body {
     rgba(26, 54, 93, 0.3) 60%,
     transparent 100%
   );
+  pointer-events: none; /* Allow touch events to pass through to page scroll */
 }
 
 .hero-content-wrapper {
