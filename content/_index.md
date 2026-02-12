@@ -1,6 +1,6 @@
 ---
 title: "Rich Zeck for Pitt County Commissioner District 6"
-description: "Your proven leader, running for Pitt County Commissioner District 6. Elect Zeck!"
+description: "The only proven, experienced leader running for Pitt County Commissioner! Elect Zeck!"
 keywords: ["Rich Zeck", "Pitt County Commissioner", "District 6", "Simpson NC", "Pitt County"]
 ---
 
